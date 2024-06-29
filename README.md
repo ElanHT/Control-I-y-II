@@ -12,3 +12,10 @@ Crear un algoritmo de clasificación supervisado que permita identificar cliente
 - Describir el impacto financiero de los clientes mororsos y como mitigar estos impactos.
 - Estimar los beneficios esperados de la implementacion del modelo de machine learning
 
+## Estructura de carpetas
+
+Se dividio el proyecto en tres partes: 
++ Parte I: Eleccion del problema
++ Parte II: Analisis del problema
++ Parte III: Caso de negocio
+
