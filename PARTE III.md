@@ -1,8 +1,8 @@
 # Propuesta del Caso de Negocio
-a. Solución de Machine Learning
+# a. Solución de Machine Learning
    Algoritmo de clasificación supervisado que permita identificar clientes con mayor probabilidad de ingresar en mora
    
-b. Preguntas clave del framework
+# b. Preguntas clave del framework
    Que: 
    - ¿Por que ingresan en mora los clientes de una entidad financiera? Por reducción de sus ingresos, incremento de sus gastos, mala cultura financiera
    - ¿Qué se viene haciendo para mitigar el ingreso en mora en una entidad financiera? Llamando a todos los clientes el dia de su pago
