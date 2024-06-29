@@ -10,4 +10,5 @@ Nuestra empresa financiera enfrenta el reto de un alto porcentaje de clientes ca
 Crear un algoritmo de clasificación supervisado que permita identificar clientes con mayor probabilidad de ingresar en mora y prevenir esto mediante una comunicacion con el cliente 10 dias antes del medio de pago.
 - Determinar las metricas y palancas relevantes para la prevencion del ingreso en la mora
 - Describir el impacto financiero de los clientes mororsos y como mitigar estos impactos.
+- Estimar los beneficios esperados de la implementacion del modelo de machine learning
 
